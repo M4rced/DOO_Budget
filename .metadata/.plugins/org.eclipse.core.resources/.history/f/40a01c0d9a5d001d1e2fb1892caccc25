@@ -1,0 +1,8 @@
+package edu.uco.budget.crosscutting.helper;
+
+public class UUIDHelper {
+	
+	private UUIDHelper() {
+		super();
+	}
+}

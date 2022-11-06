@@ -1,0 +1,27 @@
+
+K
+java:S1451"&Add or update the header of this file.HhRBLOCKERZ
+CODE_SMELL
+l
+java:S1106"AMove this left curly brace to the beginning of next line of code.(°çò†HgRMINORZ
+CODE_SMELL
+x
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¥œÃùøÿÿÿÿ8Å¹ÈÜÄ0HoRMINORZ
+CODE_SMELL
+x
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(ßý„—ýÿÿÿÿ8Å¹ÈÜÄ0HpRMINORZ
+CODE_SMELL
+s
+java:S1106"AMove this left curly brace to the beginning of next line of code.(®›·‹8Å¹ÈÜÄ0HqRMINORZ
+CODE_SMELL
+n	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8Å¹ÈÜÄ0HrRMINORZ
+CODE_SMELL
+\
+java:S2333	"%"final" is redundant in this context.(ßý„—ýÿÿÿÿ8Å¹ÈÜÄ0HsRMINORZ
+CODE_SMELL
+W
+java:S2333"%"final" is redundant in this context.(®›·‹8Å¹ÈÜÄ0HtRMINORZ
+CODE_SMELL
+y
+java:S1774"GConvert this usage of the ternary operator to an "if"/"else" structure.(®à„¾8Å¹ÈÜÄ0HuRMAJORZ
+CODE_SMELL

@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Asus PC\OneDrive\Documentos\DOO_Budget\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3636113876.index
+2499769217.index
+3972245121.index
+966316925.index

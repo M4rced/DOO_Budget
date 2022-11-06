@@ -1,27 +1,27 @@
 
-K
-java:S1451"&Add or update the header of this file.HhRBLOCKERZ
+y
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¥œÃùøÿÿÿÿ8Å¹ÈÜÄ0HÍRMINORZ
 CODE_SMELL
-l
-java:S1106"AMove this left curly brace to the beginning of next line of code.(°çò†HgRMINORZ
+]
+java:S2333	"%"final" is redundant in this context.(ßý„—ýÿÿÿÿ8Å¹ÈÜÄ0HÎRMINORZ
 CODE_SMELL
-x
-java:S1106"AMove this left curly brace to the beginning of next line of code.(¥œÃùøÿÿÿÿ8Å¹ÈÜÄ0HoRMINORZ
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(°çò†HÏRMINORZ
 CODE_SMELL
-x
-java:S1106	"AMove this left curly brace to the beginning of next line of code.(ßý„—ýÿÿÿÿ8Å¹ÈÜÄ0HpRMINORZ
+t
+java:S1106"AMove this left curly brace to the beginning of next line of code.(®›·‹8Å¹ÈÜÄ0HÐRMINORZ
 CODE_SMELL
-s
-java:S1106"AMove this left curly brace to the beginning of next line of code.(®›·‹8Å¹ÈÜÄ0HqRMINORZ
+L
+java:S1451"&Add or update the header of this file.HÑRBLOCKERZ
 CODE_SMELL
-n	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8Å¹ÈÜÄ0HrRMINORZ
-CODE_SMELL
-\
-java:S2333	"%"final" is redundant in this context.(ßý„—ýÿÿÿÿ8Å¹ÈÜÄ0HsRMINORZ
-CODE_SMELL
-W
-java:S2333"%"final" is redundant in this context.(®›·‹8Å¹ÈÜÄ0HtRMINORZ
+X
+java:S2333"%"final" is redundant in this context.(®›·‹8Å¹ÈÜÄ0HÒRMINORZ
 CODE_SMELL
 y
-java:S1774"GConvert this usage of the ternary operator to an "if"/"else" structure.(®à„¾8Å¹ÈÜÄ0HuRMAJORZ
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(ßý„—ýÿÿÿÿ8Å¹ÈÜÄ0HÓRMINORZ
+CODE_SMELL
+z
+java:S1774"GConvert this usage of the ternary operator to an "if"/"else" structure.(®à„¾8Å¹ÈÜÄ0HÔRMAJORZ
+CODE_SMELL
+o	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8Å¹ÈÜÄ0HÕRMINORZ
 CODE_SMELL

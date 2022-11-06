@@ -1,0 +1,65 @@
+
+X
+java:S2333%"%"final" is redundant in this context.(‡ƒ¸8…‹‡ŞÄ0H†RMINORZ
+CODE_SMELL
+r
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(‘Ç»—ùÿÿÿÿH‡RMINORZ
+CODE_SMELL
+t
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(‡ƒ¸8…‹‡ŞÄ0HˆRMINORZ
+CODE_SMELL
+X
+java:S2333!"%"final" is redundant in this context.(˜ù±ˆ8…‹‡ŞÄ0H‰RMINORZ
+CODE_SMELL
+]
+java:S2333"%"final" is redundant in this context.(ªŸ…øûÿÿÿÿ8…‹‡ŞÄ0HŠRMINORZ
+CODE_SMELL
+y
+java:S1106"AMove this left curly brace to the beginning of next line of code.(²™òÅÿÿÿÿÿ8…‹‡ŞÄ0H‹RMINORZ
+CODE_SMELL
+t
+java:S1106)"AMove this left curly brace to the beginning of next line of code.(Áïø×8…‹‡ŞÄ0HŒRMINORZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¬Ö–ºHRMINORZ
+CODE_SMELL
+X
+java:S2333"%"final" is redundant in this context.(“´Éé8…‹‡ŞÄ0HRMINORZ
+CODE_SMELL
+r
+java:S1106"AMove this left curly brace to the beginning of next line of code.(û‡ÀüÿÿÿÿHRMINORZ
+CODE_SMELL
+y
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ªŸ…øûÿÿÿÿ8…‹‡ŞÄ0HRMINORZ
+CODE_SMELL
+‰
+java:S1128"]Remove this unused import 'edu.uco.budget.crosscutting.helper.ObjectHelper.getDefaultIfNull'.(Š¯¨áH‘RMINORZ
+CODE_SMELL
+t
+java:S1106"AMove this left curly brace to the beginning of next line of code.(“´Éé8…‹‡ŞÄ0H“RMINORZ
+CODE_SMELL
+X
+java:S2333)"%"final" is redundant in this context.(Áïø×8…‹‡ŞÄ0H”RMINORZ
+CODE_SMELL
+r
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ïØÇ¢ùÿÿÿÿH•RMINORZ
+CODE_SMELL
+]
+java:S2333"%"final" is redundant in this context.(²™òÅÿÿÿÿÿ8…‹‡ŞÄ0H–RMINORZ
+CODE_SMELL
+L
+java:S1451"&Add or update the header of this file.H—RBLOCKERZ
+CODE_SMELL
+V
+java:S2333"%"final" is redundant in this context.(û‡ÀüÿÿÿÿH˜RMINORZ
+CODE_SMELL
+t
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(˜ù±ˆ8…‹‡ŞÄ0H™RMINORZ
+CODE_SMELL
+i
+java:S1244"=Equality tests should not be made with floating point values.(»çĞä8…‹‡ŞÄ0HšRMAJORZBUG
+Q
+java:S2333"%"final" is redundant in this context.(¬Ö–ºH›RMINORZ
+CODE_SMELL
+h	java:S105"EReplace all tab characters in this file by sequences of white-spaces.HœRMINORZ
+CODE_SMELL

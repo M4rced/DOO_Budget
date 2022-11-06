@@ -1,0 +1,18 @@
+
+import edu.udo.budget.domain.YearDTO;
+import edu.udo.budget.domain.builder.YearDTOBuilder;
+import static edu.udo.budget.domain.builder.YearDTOBuilder.getYearDTOBuilder;
+
+import edu.uco.budget.crosscutting.helper.UUIDHelper;
+
+public class Prueba {
+	
+	public static void main(String[] args) {
+		YearDTO myYearFive = getYearDTOBuilder().build();
+		
+		System.out.println(myYearFive.getId());
+		System.out.println(myYearFive.getYearNumber());
+
+		
+	}
+}

@@ -1,8 +1,11 @@
 package edu.udo.budget.domain;
 
-import java.util.UUID;
-
+import static edu.uco.budget.crosscutting.helper.NumberHelper.isLessThan;
+import static edu.uco.budget.crosscutting.helper.NumberHelper.ZERO;
 import static edu.uco.budget.crosscutting.helper.UUIDHelper.getDefaultUUID;
+import static edu.uco.budget.crosscutting.helper.UUIDHelper.getNewUUID;
+
+import java.util.UUID;
 
 public final class YearDTO {
 	
@@ -10,18 +13,24 @@ public final class YearDTO {
 	private short yearNumber;
 	
 	public YearDTO() {
+		setId(getNewUUID());
+		setYearNumber(ZERO);
 	}
 
 	public YearDTO(final UUID id, final short yearNumber) {
-		this.id = id;
-		this.yearNumber = yearNumber;
+		setId(id);
+		setYearNumber(yearNumber);
+	}
+	
+	public static final YearDTO create(final UUID id, final short yearNumber) {
+		return new YearDTO(id, yearNumber);
 	}
 
 	public UUID getId() {
 		return id;
 	}
 
-	public void setId(UUID id) {
+	public final void setId(final UUID id) {
 		this.id = getDefaultUUID(id);
 	}
 

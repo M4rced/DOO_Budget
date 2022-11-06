@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="edu.uco.budget.crosscutting.helper.NumberHelper"/>
+    <fullyQualifiedTypeName name="edu.udo.budget.domain.YearDTO"/>
+    <fullyQualifiedTypeName name="edu.udo.budget.domain.builder.YearDTOBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.UUID"/>
-    <fullyQualifiedTypeName name="edu.uco.budget.crosscutting.helper.ObjectHelper"/>
     <fullyQualifiedTypeName name="edu.uco.budget.crosscutting.helper.UUIDHelper"/>
+    <fullyQualifiedTypeName name="edu.uco.budget.crosscutting.helper.ObjectHelper"/>
+    <fullyQualifiedTypeName name="edu.udo.budget.domain.PersonDTO"/>
 </qualifiedTypeNameHistroy>

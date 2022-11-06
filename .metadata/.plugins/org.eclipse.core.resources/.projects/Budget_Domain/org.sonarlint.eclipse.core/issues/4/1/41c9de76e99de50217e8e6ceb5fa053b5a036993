@@ -1,0 +1,98 @@
+
+r
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(†§äÉıÿÿÿÿHËRMINORZ
+CODE_SMELL
+L
+java:S1451"&Add or update the header of this file.HÌRBLOCKERZ
+CODE_SMELL
+t
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‹¥Ô€8ˆøôÄ0HÚRMINORZ
+CODE_SMELL
+t
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ê¯“Í8ˆøôÄ0HÛRMINORZ
+CODE_SMELL
+t
+java:S1106'"AMove this left curly brace to the beginning of next line of code.(ê¯“Í8ˆøôÄ0HÜRMINORZ
+CODE_SMELL
+y
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(£†úÿÿÿÿ8ˆøôÄ0HİRMINORZ
+CODE_SMELL
+t
+java:S1106/"AMove this left curly brace to the beginning of next line of code.(‘öƒµ8ˆøôÄ0HŞRMINORZ
+CODE_SMELL
+y
+java:S11063"AMove this left curly brace to the beginning of next line of code.(ãÈÃ½úÿÿÿÿ8ˆøôÄ0HßRMINORZ
+CODE_SMELL
+t
+java:S11067"AMove this left curly brace to the beginning of next line of code.(ÅÖœë8ˆøôÄ0HàRMINORZ
+CODE_SMELL
+y
+java:S1106;"AMove this left curly brace to the beginning of next line of code.(ç£™˜ıÿÿÿÿ8ˆøôÄ0HáRMINORZ
+CODE_SMELL
+y
+java:S1106?"AMove this left curly brace to the beginning of next line of code.(¬×ÿ­øÿÿÿÿ8ˆøôÄ0HâRMINORZ
+CODE_SMELL
+y
+java:S1106C"AMove this left curly brace to the beginning of next line of code.(—ş—Üıÿÿÿÿ8ˆøôÄ0HãRMINORZ
+CODE_SMELL
+t
+java:S1106G"AMove this left curly brace to the beginning of next line of code.(Î—ê÷8ˆøôÄ0HäRMINORZ
+CODE_SMELL
+y
+java:S1106K"AMove this left curly brace to the beginning of next line of code.(ëÎö™øÿÿÿÿ8ˆøôÄ0HåRMINORZ
+CODE_SMELL
+y
+java:S1106O"AMove this left curly brace to the beginning of next line of code.(½ùûûÿÿÿÿ8ˆøôÄ0HæRMINORZ
+CODE_SMELL
+s
+java:S1106S"AMove this left curly brace to the beginning of next line of code.(…»®K8ˆøôÄ0HçRMINORZ
+CODE_SMELL
+y
+java:S1106W"AMove this left curly brace to the beginning of next line of code.(ïÄ—°ıÿÿÿÿ8ˆøôÄ0HèRMINORZ
+CODE_SMELL
+o	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8ˆøôÄ0HéRMINORZ
+CODE_SMELL
+}	java:S103"KSplit this 129 characters long line (which is greater than 120 authorized).(‰ß—Â8ˆøôÄ0HêRMAJORZ
+CODE_SMELL
+}	java:S103&"KSplit this 149 characters long line (which is greater than 120 authorized).(íîùú8ˆøôÄ0HëRMAJORZ
+CODE_SMELL
+X
+java:S2333&"%"final" is redundant in this context.(íîùú8ˆøôÄ0HìRMINORZ
+CODE_SMELL
+]
+java:S2333+"%"final" is redundant in this context.(£†úÿÿÿÿ8ˆøôÄ0HíRMINORZ
+CODE_SMELL
+X
+java:S2333/"%"final" is redundant in this context.(‘öƒµ8ˆøôÄ0HîRMINORZ
+CODE_SMELL
+]
+java:S23333"%"final" is redundant in this context.(ãÈÃ½úÿÿÿÿ8ˆøôÄ0HïRMINORZ
+CODE_SMELL
+X
+java:S23337"%"final" is redundant in this context.(ÅÖœë8ˆøôÄ0HğRMINORZ
+CODE_SMELL
+]
+java:S2333;"%"final" is redundant in this context.(ç£™˜ıÿÿÿÿ8ˆøôÄ0HñRMINORZ
+CODE_SMELL
+]
+java:S2333?"%"final" is redundant in this context.(¬×ÿ­øÿÿÿÿ8ˆøôÄ0HòRMINORZ
+CODE_SMELL
+]
+java:S2333C"%"final" is redundant in this context.(—ş—Üıÿÿÿÿ8ˆøôÄ0HóRMINORZ
+CODE_SMELL
+X
+java:S2333G"%"final" is redundant in this context.(Î—ê÷8ˆøôÄ0HôRMINORZ
+CODE_SMELL
+]
+java:S2333K"%"final" is redundant in this context.(ëÎö™øÿÿÿÿ8ˆøôÄ0HõRMINORZ
+CODE_SMELL
+]
+java:S2333O"%"final" is redundant in this context.(½ùûûÿÿÿÿ8ˆøôÄ0HöRMINORZ
+CODE_SMELL
+W
+java:S2333S"%"final" is redundant in this context.(…»®K8ˆøôÄ0H÷RMINORZ
+CODE_SMELL
+]
+java:S2333W"%"final" is redundant in this context.(ïÄ—°ıÿÿÿÿ8ˆøôÄ0HøRMINORZ
+CODE_SMELL

@@ -1,0 +1,20 @@
+package edu.udo.budget.domain.builder;
+
+import java.util.UUID;
+
+public class YearDTOBuilder {
+	
+	private UUID id;
+	private short yearNumber;
+	
+	public final YearDTOBuilder setId(final UUID id) {
+		this.id = id;
+		return this;
+	}
+	
+	public final YearDTOBuilder setYearNumber(final short yearNumber) {
+		this.yearNumber = yearNumber;
+		return this;
+	}
+	
+}

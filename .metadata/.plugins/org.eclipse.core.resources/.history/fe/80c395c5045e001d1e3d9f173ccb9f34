@@ -1,0 +1,25 @@
+
+import edu.udo.budget.domain.YearDTO;
+import edu.udo.budget.domain.builder.YearDTOBuilder;
+import static edu.udo.budget.domain.builder.YearDTOBuilder.getYearDTOBuilder;
+
+import edu.uco.budget.crosscutting.helper.UUIDHelper;
+
+public class Prueba {
+	
+	public static void main(String[] args) {
+		//YearDTO myYear = getYearDTOBuilder().setId(UUIDHelper.getNewUUID()).setYearNumber((short)2022).build();
+		//YearDTO myYearTwo = getYearDTOBuilder().setYearNumber((short)2022).setId(UUIDHelper.getNewUUID()).build();
+		//YearDTO myYearThree = getYearDTOBuilder().setId(UUIDHelper.getNewUUID()).build();
+		//YearDTO myYearFour = getYearDTOBuilder().setYearNumber((short)2022).build();
+		YearDTO myYearFive = getYearDTOBuilder().build();
+		
+		YearDTO year = new YearDTO();
+		
+		System.out.println(myYearFive.getId());
+		System.out.println(myYearFive.getYearNumber());
+		//year.setId(UUIDHelper.getNewUUID());
+		//year.setYearNumber((short) 2022);
+		
+	}
+}

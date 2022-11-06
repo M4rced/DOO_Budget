@@ -1,24 +1,24 @@
 
-r
-java:S1106"AMove this left curly brace to the beginning of next line of code.(Ôú´ëúÿÿÿÿHÑRMINORZ
-CODE_SMELL
 L
-java:S1451"&Add or update the header of this file.HÒRBLOCKERZ
-CODE_SMELL
-y
-java:S1106	"AMove this left curly brace to the beginning of next line of code.(•Êµºûÿÿÿÿ8Ôå—ôÄ0HÔRMINORZ
-CODE_SMELL
-t
-java:S1106"AMove this left curly brace to the beginning of next line of code.(éßï8Ôå—ôÄ0HÕRMINORZ
-CODE_SMELL
-y
-java:S1106"AMove this left curly brace to the beginning of next line of code.(óŸÏÖûÿÿÿÿ8Ôå—ôÄ0HÖRMINORZ
-CODE_SMELL
-y
-java:S1106"AMove this left curly brace to the beginning of next line of code.(û¢Üïÿÿÿÿÿ8Ôå—ôÄ0H×RMINORZ
-CODE_SMELL
-o	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8Ôå—ôÄ0HØRMINORZ
+java:S1451"&Add or update the header of this file.HêRBLOCKERZ
 CODE_SMELL
 l
-java:S2974"4Make this class "final" or add a public constructor.(Ôú´ëúÿÿÿÿ8Ôå—ôÄ0HÙRMINORZ
+java:S2974"4Make this class "final" or add a public constructor.(Ôú´ëúÿÿÿÿ8Ôå—ôÄ0HëRMINORZ
+CODE_SMELL
+y
+java:S1106"AMove this left curly brace to the beginning of next line of code.(û¢Üïÿÿÿÿÿ8Ôå—ôÄ0HìRMINORZ
+CODE_SMELL
+r
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ôú´ëúÿÿÿÿHíRMINORZ
+CODE_SMELL
+o	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8Ôå—ôÄ0HîRMINORZ
+CODE_SMELL
+y
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(•Êµºûÿÿÿÿ8Ôå—ôÄ0HïRMINORZ
+CODE_SMELL
+y
+java:S1106"AMove this left curly brace to the beginning of next line of code.(óŸÏÖûÿÿÿÿ8Ôå—ôÄ0HğRMINORZ
+CODE_SMELL
+t
+java:S1106"AMove this left curly brace to the beginning of next line of code.(éßï8Ôå—ôÄ0HñRMINORZ
 CODE_SMELL

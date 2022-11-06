@@ -1,46 +1,46 @@
 
 y
-java:S1106)"AMove this left curly brace to the beginning of next line of code.(İøçúÿÿÿÿ8ÉÓ´ŞÄ0H‰RMINORZ
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÏÅÕ’úÿÿÿÿ8†ÂÙÛÄ0HîRMINORZ
+CODE_SMELL
+y
+java:S1106)"AMove this left curly brace to the beginning of next line of code.(İøçúÿÿÿÿ8ÉÓ´ŞÄ0HïRMINORZ
+CODE_SMELL
+y
+java:S1106"AMove this left curly brace to the beginning of next line of code.(áòó„øÿÿÿÿ8†ÂÙÛÄ0HğRMINORZ
+CODE_SMELL
+o	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8†ÂÙÛÄ0HñRMINORZ
+CODE_SMELL
+S
+java:S1451"&Add or update the header of this file.8†ÂÙÛÄ0HòRBLOCKERZ
+CODE_SMELL
+t
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(í”à½8†ÂÙÛÄ0HóRMINORZ
+CODE_SMELL
+y
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ğÙ·¼úÿÿÿÿ8†ÂÙÛÄ0HôRMINORZ
 CODE_SMELL
 ¼
-java:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İøçúÿÿÿÿ8†ÂÙÛÄ0HŠRCRITICALZ
+java:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İøçúÿÿÿÿ8†ÂÙÛÄ0HõRCRITICALZ
+CODE_SMELL
+]
+java:S2333"%"final" is redundant in this context.(«íÁÒşÿÿÿÿ8·Ù¨ŞÄ0H÷RMINORZ
+CODE_SMELL
+t
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(‘öƒµ8†ÂÙÛÄ0HøRMINORZ
+CODE_SMELL
+i
+java:S1172)"1Remove this unused method parameter "yearNumber".(İøçúÿÿÿÿ8‘éáÛÄ0HùRMAJORZ
+CODE_SMELL
+X
+java:S2333!"%"final" is redundant in this context.(‘öƒµ8ÉÓ´ŞÄ0HûRMINORZ
+CODE_SMELL
+y
+java:S1106"AMove this left curly brace to the beginning of next line of code.(«íÁÒşÿÿÿÿ8†ÂÙÛÄ0HüRMINORZ
 CODE_SMELL
 ‰
-java:S1128"WRemove this unused import 'edu.uco.budget.crosscutting.helper.NumberHelper.isLessThan'.(Ä’¼U8œÖŞÄ0HŒRMINORZ
-CODE_SMELL
-y
-java:S1106"AMove this left curly brace to the beginning of next line of code.(áòó„øÿÿÿÿ8†ÂÙÛÄ0HRMINORZ
-CODE_SMELL
-y
-java:S1106"AMove this left curly brace to the beginning of next line of code.(«íÁÒşÿÿÿÿ8†ÂÙÛÄ0HRMINORZ
-CODE_SMELL
-y
-java:S1106"AMove this left curly brace to the beginning of next line of code.(ÏÅÕ’úÿÿÿÿ8†ÂÙÛÄ0HRMINORZ
+java:S1128"WRemove this unused import 'edu.uco.budget.crosscutting.helper.NumberHelper.isLessThan'.(Ä’¼U8œÖŞÄ0HıRMINORZ
 CODE_SMELL
 t
 java:S1106
-"AMove this left curly brace to the beginning of next line of code.(È¹í8†ÂÙÛÄ0H‘RMINORZ
-CODE_SMELL
-]
-java:S2333"%"final" is redundant in this context.(«íÁÒşÿÿÿÿ8·Ù¨ŞÄ0H’RMINORZ
-CODE_SMELL
-S
-java:S1451"&Add or update the header of this file.8†ÂÙÛÄ0H“RBLOCKERZ
-CODE_SMELL
-X
-java:S2333!"%"final" is redundant in this context.(‘öƒµ8ÉÓ´ŞÄ0H”RMINORZ
-CODE_SMELL
-y
-java:S1106"AMove this left curly brace to the beginning of next line of code.(ğÙ·¼úÿÿÿÿ8†ÂÙÛÄ0H•RMINORZ
-CODE_SMELL
-t
-java:S1106!"AMove this left curly brace to the beginning of next line of code.(‘öƒµ8†ÂÙÛÄ0H–RMINORZ
-CODE_SMELL
-t
-java:S1106%"AMove this left curly brace to the beginning of next line of code.(í”à½8†ÂÙÛÄ0H—RMINORZ
-CODE_SMELL
-i
-java:S1172)"1Remove this unused method parameter "yearNumber".(İøçúÿÿÿÿ8‘éáÛÄ0H˜RMAJORZ
-CODE_SMELL
-o	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8†ÂÙÛÄ0HšRMINORZ
+"AMove this left curly brace to the beginning of next line of code.(È¹í8†ÂÙÛÄ0HÿRMINORZ
 CODE_SMELL
